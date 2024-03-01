@@ -13,6 +13,11 @@ namespace Module2Review
         {
             
         }
+        public Student(string name, int id)
+        {
+            Name = name;
+            Id = id;
+        }
         public string Name { get; set; }
         public int Id { get; set; }
         List<double> Grades { get; set; } = new List<double>();
