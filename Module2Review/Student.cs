@@ -20,11 +20,21 @@ namespace Module2Review
         public void AddGrade(double grade)
         {
             Grades.Add(grade);
-        };
+        }
 
         public void AddGrade(params double[] grades)
         {
             Grades.AddRange(grades);
+        }
+
+        public double CalculateAverageGrade()
+        {
+            double gpa = 0;
+            if (Grades.Count > 0)
+            {
+                gpa = Grades.Average();
+            };
+            return gpa;
         }
     }
 }
