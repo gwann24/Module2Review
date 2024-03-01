@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{74E64822-4E24-4F49-ABBD-60A55DCE0A56}|Module2Review\\Module2Review.csproj|solutionrelative:module2review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{74E64822-4E24-4F49-ABBD-60A55DCE0A56}|Module2Review\\Module2Review.csproj|c:\\truecoders\\repos\\module2review\\module2review\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E64822-4E24-4F49-ABBD-60A55DCE0A56}|Module2Review\\Module2Review.csproj|solutionrelative:module2review\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74E64822-4E24-4F49-ABBD-60A55DCE0A56}|Module2Review\\Module2Review.csproj|c:\\truecoders\\repos\\module2review\\module2review\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74E64822-4E24-4F49-ABBD-60A55DCE0A56}|Module2Review\\Module2Review.csproj|solutionrelative:module2review\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\TrueCoders\\repos\\Module2Review\\Module2Review\\Course.cs",
+              "RelativeDocumentMoniker": "Module2Review\\Course.cs",
+              "ToolTip": "C:\\TrueCoders\\repos\\Module2Review\\Module2Review\\Course.cs",
+              "RelativeToolTip": "Module2Review\\Course.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:33:36.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\TrueCoders\\repos\\Module2Review\\Module2Review\\Student.cs",
               "RelativeDocumentMoniker": "Module2Review\\Student.cs",
               "ToolTip": "C:\\TrueCoders\\repos\\Module2Review\\Module2Review\\Student.cs",
               "RelativeToolTip": "Module2Review\\Student.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwBYAAAAPAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T18:03:19.992Z",
               "EditorCaption": ""
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "Module2Review\\Program.cs",
               "ToolTip": "C:\\TrueCoders\\repos\\Module2Review\\Module2Review\\Program.cs",
               "RelativeToolTip": "Module2Review\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAowCIAAABdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T17:33:27.11Z",
               "EditorCaption": ""

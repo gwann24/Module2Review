@@ -34,6 +34,23 @@
                 }
                 Console.WriteLine($"\nGPA is {Math.Round(student.CalculateAverageGrade(),2)}");
             }
+            Course course1 = new Course();
+            course1.CourseName = "American History";
+            course1.CourseCode = "AM001";
+            Student newStudent1 = new Student("Papa Smurf", 5);
+            course1.AddStudent2Course(newStudent1);
+            course1.AddStudent2Course(newStudent1);
+            Student newStudent2 = new Student("Brainy Smurf", 6);
+            course1.AddStudent2Course(newStudent2);
+            Console.WriteLine($"\n\nCourse Code: {course1.CourseCode}");
+            Console.WriteLine($"Course Name: {course1.CourseName}");
+            Console.WriteLine("Enrolled Students");
+            Console.WriteLine("\nID\tName");
+            foreach (Student pupil in course1.EStudents)
+            {
+                //ConsoleWriteLine(students.IndexOf(pupil));
+                Console.WriteLine($"{pupil.Id}\t{pupil.Name}");
+            };
         }
     }
 }
