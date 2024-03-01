@@ -20,7 +20,7 @@ namespace Module2Review
         }
         public string Name { get; set; }
         public int Id { get; set; }
-        List<double> Grades { get; set; } = new List<double>();
+        public List<double> Grades { get; set; } = new List<double>();
 
         public void AddGrade(double grade)
         {
